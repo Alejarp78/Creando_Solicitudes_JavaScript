@@ -1,0 +1,17 @@
+PS D:\JavaScript_creando_solicitudes\JavaScript-requests-stage-1> npx json-server --watch db.json --port 3001
+
+  \{^_^}/ hi!
+
+  Loading db.json
+  Done
+
+  Resources
+  http://localhost:3001/videos
+
+  Home
+  http://localhost:3001
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+GET /videos 200 2192.282 ms - -
